@@ -93,6 +93,6 @@ Linux systems administrator with extensive hands-on experience managing complex 
 - CompTIA Network+ (In Progress)
 - Network Support Technician
 - Advanced Python Programming
-
+- HTML5 Markup
 ---
 *Last Updated: January 2025*
