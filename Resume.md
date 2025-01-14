@@ -72,7 +72,7 @@ Linux systems administrator with extensive hands-on experience managing complex 
 - Provided technical product guidance to customers
 
 ### Front of House Hospitality, Shake Shack
-*Kirkland, WA, August 2019 - April 2020
+*Kirkland, WA, August 2019 - April 2020*
 –	Greeted customers and assisted with order taking and payment processing
 –	Maintained cleanliness of restaurant and assisted with food preparation and service
 
